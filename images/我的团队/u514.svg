@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="68px" height="65px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip71">
+    <mask fill="white" id="clip362">
       <path d="M 72.5 177  C 54.4625 177  40 162.5375  40 144.5  L 40 144.5  C 40 126.4625  54.4625 112  72.5 112  L 75.5 112  C 93.5375 112  108 126.4625  108 144.5  L 108 144.5  C 108 162.5375  93.5375 177  75.5 177  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -40 -112 )">
-    <path d="M 40 112  L 108 112  L 108 177  L 40 177  L 40 112  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip71)" />
-    <path d="M 45 117  L 103 117  L 103 172  L 45 172  L 45 117  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip71)" />
-    <path d="M 80.235 131.5  C 77.505 131.5  75.36 129.355  75.36 126.625  C 75.36 123.895  77.505 121.75  80.235 121.75  C 82.965 121.75  85.11 123.895  85.11 126.625  C 85.11 129.355  82.965 131.5  80.235 131.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip71)" />
-    <path d="M 47 171  L 47 142.4  L 60.75 129.4  L 80 141.176470588235  L 91 137.2  L 102 141.176470588235  L 102 171  L 47 171  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip71)" />
+    <path d="M 40 112  L 108 112  L 108 177  L 40 177  L 40 112  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip362)" />
+    <path d="M 45 117  L 103 117  L 103 172  L 45 172  L 45 117  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip362)" />
+    <path d="M 80.235 131.5  C 77.505 131.5  75.36 129.355  75.36 126.625  C 75.36 123.895  77.505 121.75  80.235 121.75  C 82.965 121.75  85.11 123.895  85.11 126.625  C 85.11 129.355  82.965 131.5  80.235 131.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip362)" />
+    <path d="M 47 171  L 47 142.4  L 60.75 129.4  L 80 141.176470588235  L 91 137.2  L 102 141.176470588235  L 102 171  L 47 171  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip362)" />
   </g>
 </svg>
