@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="47px" height="42px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip296">
+    <mask fill="white" id="clip151">
       <path d="M 409 1001  C 397.345 1001  388 991.655  388 980  L 388 980  C 388 968.345  397.345 959  409 959  L 414 959  C 425.655 959  435 968.345  435 980  L 435 980  C 435 991.655  425.655 1001  414 1001  " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -388 -959 )">
-    <path d="M 388 959  L 435 959  L 435 1001  L 388 1001  L 388 959  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip296)" />
-    <path d="M 391 962  L 432 962  L 432 998  L 391 998  L 391 962  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip296)" />
-    <path d="M 415.59 971.6  C 413.826 971.6  412.44 970.214  412.44 968.45  C 412.44 966.686  413.826 965.3  415.59 965.3  C 417.354 965.3  418.74 966.686  418.74 968.45  C 418.74 970.214  417.354 971.6  415.59 971.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip296)" />
-    <path d="M 392 997  L 392 978.3  L 401.75 969.8  L 415.4 978.770212765957  L 423.2 974.9  L 431 978.770212765957  L 431 997  L 392 997  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip296)" />
+    <path d="M 388 959  L 435 959  L 435 1001  L 388 1001  L 388 959  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip151)" />
+    <path d="M 391 962  L 432 962  L 432 998  L 391 998  L 391 962  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip151)" />
+    <path d="M 415.59 971.6  C 413.826 971.6  412.44 970.214  412.44 968.45  C 412.44 966.686  413.826 965.3  415.59 965.3  C 417.354 965.3  418.74 966.686  418.74 968.45  C 418.74 970.214  417.354 971.6  415.59 971.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip151)" />
+    <path d="M 392 997  L 392 978.3  L 401.75 969.8  L 415.4 978.770212765957  L 423.2 974.9  L 431 978.770212765957  L 431 997  L 392 997  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip151)" />
   </g>
 </svg>
